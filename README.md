@@ -3,3 +3,6 @@
 
 ## Usage
 Just click the icon next to your URL bar. Your tabs are saved to a folder (with the current date as it's name) located in Other Bookmarks --> TabsGather. It is especially helpful when you are in a hurry, but want to continue your work later.
+
+##Download
+This extension can be downloaded on [Google Web Store](https://chrome.google.com/webstore/detail/tabsgather/godnceadjmcbplclheklhmkhelhcgclc). The source code can be found in the Releases section.
